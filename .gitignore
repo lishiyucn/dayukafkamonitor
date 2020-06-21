@@ -1,7 +1,7 @@
-*.class
-*.log
-*.js linguist-language=java
-*.css linguist-language=java
-*.html linguist-language=java
-*.java 
-*.scala
+*.class linguist-language=scala
+*.log linguist-language=scala
+*.js linguist-language=scala
+*.css linguist-language=scala
+*.html linguist-language=scala
+*.java linguist-language=scala
+*.scala linguist-language=scala
